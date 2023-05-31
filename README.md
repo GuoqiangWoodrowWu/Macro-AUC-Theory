@@ -17,4 +17,4 @@ The source code is written by Matlab
 - run_linear_u2.m -- run the code to evaluate A^{u_2}
 - plot_label_wise_imbalance.m -- plot label-wise class imbalance  
 ## Run
-Run the run_linear_pa.m, run_linear_u1.m, run_linear_u2.m, run_linear_u3.m and run_linear_u4.m in MATLAB, and it will run as its default parameters on sample datasets.
+Run the run_linear_pa.m, run_linear_u1.m, and run_linear_u1.m in MATLAB, and it will run as its default parameters on sample datasets.
